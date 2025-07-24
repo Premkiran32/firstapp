@@ -1,2 +1,4 @@
 this is file2
-my name is prem 
+my name is prem
+
+good afternoon
